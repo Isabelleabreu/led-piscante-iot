@@ -6,6 +6,10 @@
 **Turma:** DS3B  
 **Disciplina:** Internet das Coisas (IoT)
 
+## 🎥 Demonstração em Vídeo
+
+[Assista ao vídeo do projeto no YouTube](https://youtu.be/7NkZOcwQwgg?si=c0lmDhyDBPrAiO1N)
+
 ---
 
 ## 📖 Descrição
