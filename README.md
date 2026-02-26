@@ -70,7 +70,7 @@ Esse comportamento caracteriza o efeito de **LED piscante**, amplamente utilizad
 ## 💻 Código Utilizado
 
 ```cpp
-#int ledPin = 21;
+int ledPin = 21;
 
 void setup()
 {
