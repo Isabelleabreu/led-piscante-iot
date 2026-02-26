@@ -34,7 +34,7 @@ O projeto consiste na refatoração de uma atividade desenvolvida anteriormente 
 - ESP32  
 - Protoboard  
 - LED  
-- Resistor (220Ω ou 330Ω)  
+- Resistor
 - Jumpers  
 - Cabo USB  
 
